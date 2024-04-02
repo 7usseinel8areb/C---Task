@@ -1,0 +1,15 @@
+C:\100DayChallenge\MVC\Task3\bin\Debug\net7.0\Task3.exe
+C:\100DayChallenge\MVC\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\100DayChallenge\MVC\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\100DayChallenge\MVC\Task3\bin\Debug\net7.0\Task3.dll
+C:\100DayChallenge\MVC\Task3\bin\Debug\net7.0\Task3.pdb
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.sourcelink.json
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.dll
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.pdb
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\100DayChallenge\MVC\Task3\obj\Debug\net7.0\ref\Task3.dll

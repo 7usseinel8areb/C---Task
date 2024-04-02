@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2F6vfdrAVOCf4oy8N3qlfRYhjgpzE7VLll1bA5Cul4nxp/euD5w3MttCea8xvW/P6QKK7pR2tEK1hAVg3RqurQ==",
+  "success": true,
+  "projectFilePath": "C:\\100DayChallenge\\MVC\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\husse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
